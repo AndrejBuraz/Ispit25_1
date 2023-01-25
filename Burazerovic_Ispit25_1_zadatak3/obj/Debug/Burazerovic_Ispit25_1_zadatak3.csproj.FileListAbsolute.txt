@@ -1,0 +1,7 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\bin\Debug\Burazerovic_Ispit25_1_zadatak3.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\bin\Debug\Burazerovic_Ispit25_1_zadatak3.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\bin\Debug\Burazerovic_Ispit25_1_zadatak3.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\obj\Debug\Burazerovic_Ispit25_1_zadatak3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\obj\Debug\Burazerovic_Ispit25_1_zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\obj\Debug\Burazerovic_Ispit25_1_zadatak3.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Burazerovic_Ispit25_1_zadatak3\obj\Debug\Burazerovic_Ispit25_1_zadatak3.pdb
